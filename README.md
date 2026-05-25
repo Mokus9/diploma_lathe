@@ -1,1 +1,1 @@
-<img width="1196" height="778" alt="image" src="https://github.com/user-attachments/assets/1c4dc92a-0fbb-4855-956f-b4f717d9dd30" />Ссылка на яндекс диск с файлом 3D модели: https://disk.yandex.ru/d/Gkojoiiyb95XNw
+
