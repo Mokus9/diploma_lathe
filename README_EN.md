@@ -21,7 +21,7 @@ Supervisor: A.G. Tavitov
 
 | Prototype assembled | Spindle assembly | Tool milling process |
 |--------------------|-----------------|---------------------|
-| *(photo)* | *(photo)* | *(photo)* |
+|<img width="2560" height="1920" alt="photo_2026-06-22_22-59-06" src="https://github.com/user-attachments/assets/5d93dd02-8663-429f-baf7-cbf13ef79664" />|<img width="1920" height="2560" alt="photo_2026-06-22_22-59-10" src="https://github.com/user-attachments/assets/a5ef0366-fc95-40a4-8ced-222a79672aed" />|<img width="1920" height="2560" alt="photo_2026-06-22_22-05-56" src="https://github.com/user-attachments/assets/e3791462-7856-4793-afbd-009d055ddf96" />|
 
 ---
 
