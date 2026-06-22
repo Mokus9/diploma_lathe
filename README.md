@@ -1,4 +1,4 @@
-<img width="2560" height="1920" alt="photo_2026-06-22_22-59-06" src="https://github.com/user-attachments/assets/09d960f2-92e5-47ab-8f12-c9c469d6af0c" /># 🔧 Малогабаритный токарный станок с ЧПУ для детской мастерской
+# 🔧 Малогабаритный токарный станок с ЧПУ для детской мастерской
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Русский](https://img.shields.io/badge/Язык-Русский-green.svg)](README.md)
